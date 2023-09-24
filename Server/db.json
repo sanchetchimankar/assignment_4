@@ -1,0 +1,25 @@
+{
+  "GridApp": [
+    {
+      "name": "sanchet chimankar",
+      "email": "sanchet@gmail.com",
+      "phone": "1234567777",
+      "dob": "2008-07-16",
+      "id": 26
+    },
+    {
+      "name": "akshay gore",
+      "email": "akshay@gmail.com",
+      "phone": "2344556777",
+      "dob": "2022-3-4",
+      "id": 3
+    },
+    {
+      "name": "Mayank Kumar",
+      "email": "mayank@gmail.com",
+      "phone": "9021345689",
+      "dob": "2022-11-17",
+      "id": 27
+    }
+  ]
+}

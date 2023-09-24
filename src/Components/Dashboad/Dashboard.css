@@ -1,0 +1,10 @@
+.root{
+    margin-left: 200px;
+    border: 2px solid black;
+    height: 90vh;
+    margin-top: 12px;
+     background-color: antiquewhite;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(50px);
+
+}

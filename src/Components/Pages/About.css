@@ -1,0 +1,35 @@
+.actions-cell {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .actions-cell .button {
+    margin: 0 10px;
+  }
+  button {
+    padding: 8px 16px;
+  }
+  
+  .update-btn {
+    margin-right: 16px;
+  }
+/* define the border style for the ag-theme-alpine class */
+.ag-theme-alpine {
+    border: 1px solid #0e0505;
+    border-color: #000;
+ 
+  }
+  
+  /* define the border style for the header row */
+  .ag-theme-alpine.ag-header {
+    border-bottom: 1px solid #080202;
+  }
+  
+  /* define the border style for the body rows */
+  .ag-theme-alpine.ag-secondary {
+    border-color: #000;
+    border-bottom: 1px solid #070101;
+  }
+  .ag-secondary{
+    border-color: rgba(0, 0, 0, 0.87);
+  }

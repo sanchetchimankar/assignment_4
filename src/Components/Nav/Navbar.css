@@ -1,0 +1,89 @@
+.header {
+   height: 86px;
+   padding: 0px 0px ;
+  }
+  
+  .nav-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #171010;
+    padding-bottom: 20px;
+    background-color: black;
+    height: 60px;
+    border-radius: 5px;
+    
+  }
+  
+  .nav-header h1{
+    background: none;
+  }
+  .logo {
+   
+    display: flex;
+    align-items: center;
+    color: #fff;
+    background: none;
+    text-shadow: #171010;
+    
+  }
+  
+  .logo img {
+    height: 60px;
+    margin-right: 10px;
+    margin-top: 5px;
+    border-radius: 50%;
+    border: 1ps solid red;
+  }
+  
+  .date {
+    font-size: 18px;
+    margin-right: 20px;
+    color: #eee;
+    background: none;
+  }
+  
+  .account {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    background: none;
+    padding-top:  10px;
+    
+  }
+  .name{
+    margin-right: 30px;
+    color: #fff;
+    background: none;
+  }
+  
+  .account img {
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
+  .account .settings {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: #1f951b;
+    cursor: pointer;
+ 
+  }
+  
+  .account .settings i {
+    margin-right: 5px;
+    
+  }
+  .account-btn{
+    background: none;
+    color: #fff;
+    padding-bottom: 5px;
+  }
+  .settings:hover{
+  background-color: rgb(42, 181, 212);
+  }
+ 
