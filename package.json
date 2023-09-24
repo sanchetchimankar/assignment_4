@@ -1,6 +1,7 @@
 {
   "name": "assignment1",
   "version": "0.1.0",
+  "homepage": "https://sanchetchimankar.github.io/assignment_4",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
